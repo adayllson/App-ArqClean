@@ -1,0 +1,14 @@
+{
+    "code-runner.executorMap": {
+        "javascript": "bun",
+        "typescript": "bun",
+        
+    },
+
+    "material-icon-theme.folders.associations": {
+        "external": "tools"
+    }
+
+    
+}
+
